@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;JFCalculadora.java&apos; to &apos;calculadora.Calculadora.java&apos;&#x0D;&#x0A;- Original project: &apos;029.VIDEOJUEGO&apos;&#x0D;&#x0A;- Destination element: &apos;calculadora.Calculadora.java&apos;&#x0D;&#x0A;- Original element: &apos;videojuego.JFCalculadora.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=031.CALCULADORA/src&lt;calculadora{Calculadora.java" element1="/src&lt;videojuego{JFCalculadora.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1643966754337" units="1" version="1.0"/>
+</session>

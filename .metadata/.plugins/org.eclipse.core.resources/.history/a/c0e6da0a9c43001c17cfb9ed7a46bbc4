@@ -1,0 +1,24 @@
+import java.util.Arrays;
+import java.util.Iterator;
+
+public class PrEj07ArraysBidi {
+	static int [][]arrayBD=new int[5][9];//
+	static void rellenar() {
+		for (int i = 0; i < arrayBD.length; i++) {
+			for (int j = 0; j < arrayBD.length; j++) {
+				arrayBD[i][j]=(int)(Math.random()*30+1);
+				
+			}
+		}
+		
+	}
+
+
+	public static void main(String[] args) {
+		rellenar();
+		System.out.println(Arrays.toString(arrayBD));
+		
+
+	}
+
+}

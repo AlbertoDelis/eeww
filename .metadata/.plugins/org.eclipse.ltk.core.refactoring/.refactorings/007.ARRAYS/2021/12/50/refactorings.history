@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;PrEj0709B.java&apos; to &apos;017.AGENDA/src/agenda&apos;&#x0D;&#x0A;- Original project: &apos;007.ARRAYS&apos;&#x0D;&#x0A;- Destination element: &apos;017.AGENDA/src/agenda&apos;&#x0D;&#x0A;- Original element: &apos;PrEj0709B.java&apos;" description="Copy compilation unit" destination="=017.AGENDA/src&lt;agenda" element1="/src&lt;{PrEj0709B.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1639475206152" units="1" version="1.0"/>
+</session>

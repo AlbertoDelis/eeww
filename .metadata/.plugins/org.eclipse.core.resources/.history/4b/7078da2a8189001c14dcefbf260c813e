@@ -1,0 +1,20 @@
+package list;
+
+import java.util.*;
+
+public class TestList {
+
+	public static void main(String[] args) {
+		List<Integer>lista=new ArrayList<>();
+		for (int i = 0; i <100; i++) {
+			int x=(int)(Math.random()*500);
+			lista.add(x);
+		}
+		
+		System.out.println(lista);
+		System.out.println(lista.size());
+		
+
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;014.POOFIGURAS/src/figuras&apos;&#x0D;&#x0A;- Original project: &apos;024.FIGURASHERENCIA&apos;&#x0D;&#x0A;- Destination element: &apos;014.POOFIGURAS/src/figuras&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     figher.Punto.java&#x0D;&#x0A;     figher.Rectangulo.java&#x0D;&#x0A;     figher.Triangulo.java&#x0D;&#x0A;     figher.TestFiguras.java&#x0D;&#x0A;     figher.Circulo.java" description="Copy compilation units" destination="=014.POOFIGURAS/src&lt;figuras" element1="/src&lt;figher{Punto.java" element2="/src&lt;figher{Rectangulo.java" element3="/src&lt;figher{Triangulo.java" element4="/src&lt;figher{TestFiguras.java" element5="/src&lt;figher{Circulo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1642152891559" units="5" version="1.0"/>
+</session>

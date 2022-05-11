@@ -1,0 +1,21 @@
+//Para rellenar una matriz con números aleatorios 
+//Filas Derecya
+public class PrEj07ArraysBidi {
+	static int[][] arrayBD = new int[5][10];// F --> C
+
+	static void rellenar() {
+		for (int i = 0; i < 5; i++) {
+			for (int j = 0; j < 10; j++) {
+				arrayBD[i][j] = (int) (Math.random() *9+1);
+				System.out.print(arrayBD[i][j]+" ");
+			}
+			System.out.println();
+		}
+	}
+
+	public static void main(String[] args) {
+		rellenar();
+		
+	}
+
+}

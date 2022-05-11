@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;autores.csv&apos; to &apos;075.PROGRAMAJDBC&apos;&#x0D;&#x0A;- Original project: &apos;073.EJERCICIOJDBC&apos;&#x0D;&#x0A;- Destination element: &apos;075.PROGRAMAJDBC&apos;&#x0D;&#x0A;- Original element: &apos;autores.csv&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=075.PROGRAMAJDBC" element1="autores.csv" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1651585807629" units="0" version="1.0"/>
+</session>

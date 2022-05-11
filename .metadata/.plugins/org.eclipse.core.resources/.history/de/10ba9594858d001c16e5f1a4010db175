@@ -1,0 +1,35 @@
+package calcjunit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class CalculadoraTest {
+	Calculadora calc=new Calculadora();
+	
+	
+	//@Before ordenes antes de cada método
+	
+	//@After después de cada método
+
+	@Test
+	public void testSum() {
+		int resul=calc.add(3,2);
+		int esper=5;
+		assertEquals(resul, esper);
+	}
+	
+	@Test
+	public void testAnsSum() {
+		calc.add(3,2);
+		int resul=calc.ans();
+		int esper=5;
+		assertEquals(resul, esper);
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+
+
+}

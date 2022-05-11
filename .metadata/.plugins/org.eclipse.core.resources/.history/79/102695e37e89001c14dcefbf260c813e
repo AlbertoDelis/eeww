@@ -1,0 +1,17 @@
+package list;
+
+import java.util.*;
+
+public class TestList {
+
+	public static void main(String[] args) {
+		List<Integer>lista=new ArrayList<>(100);
+		for (Integer integer : lista) {
+			lista=(int)(Math.random()*500);
+		}
+		System.out.println(lista);
+		
+
+	}
+
+}

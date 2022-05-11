@@ -1,0 +1,5 @@
+  113 Pedro 3                8   3   7   3
+ 1114 Virginia 4            10   3   7   3
+11115 Antonio 5              9   3   7   3
+  117 Marta 7                3   3   7   3
+   18 Luís 8                 4   6   5   4

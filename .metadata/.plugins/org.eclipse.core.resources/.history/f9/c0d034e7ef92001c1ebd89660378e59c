@@ -1,0 +1,10 @@
+package aeropuerto;
+
+public class TestVuelo {
+	public static void main(String[] args) {
+		VueloImpl vuelo= new VueloImpl ;
+			
+			
+	
+
+}

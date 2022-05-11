@@ -1,0 +1,9 @@
+package ejdaw12;
+
+public class Articulo implements Comparable <Elemento>{
+private Integer codigo; 
+private String nombre;
+private String descripcion;
+private Integer unidades; 
+private Integer grupo;
+private Integer anho;

@@ -1,0 +1,15 @@
+package list;
+
+import java.util.*;
+
+public class TestList {
+
+	public static void main(String[] args) {
+		List<Integer>lista=new ArrayList<>(100);
+		lista.size();
+		System.out.println(lista);
+		
+
+	}
+
+}

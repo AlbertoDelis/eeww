@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;UltDigFact114.java&apos; to &apos;061.ACEPTAELRETO/src/ultimodigfact&apos;&#x0D;&#x0A;- Original project: &apos;061.ACEPTAELRETO&apos;&#x0D;&#x0A;- Destination element: &apos;061.ACEPTAELRETO/src/ultimodigfact&apos;&#x0D;&#x0A;- Original element: &apos;sehacolado.UltDigFact114.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;ultimodigfact" element1="/src&lt;sehacolado{UltDigFact114.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1648023429256" units="1" version="1.0"/>
+</session>

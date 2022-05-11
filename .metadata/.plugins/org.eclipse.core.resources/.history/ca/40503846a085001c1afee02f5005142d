@@ -1,0 +1,7 @@
+package centralita;
+
+import Excepcion;
+
+public class LlamadaExcepcion extends Excepcion {
+
+}

@@ -1,0 +1,17 @@
+package list;
+
+import java.util.*;
+
+public class TestList {
+
+	public static void main(String[] args) {
+		List<Integer>lista=new ArrayList<>(100);
+		for (int i = 0; i < lista.size(); i++) {
+			lista.add(5);
+		}
+		System.out.println(lista);
+		
+
+	}
+
+}
